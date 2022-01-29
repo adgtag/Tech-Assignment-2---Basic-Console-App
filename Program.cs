@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Alex Gaskin
+
+using System;
 
 namespace Tech_Assignment_2___Basic_Console_App
 {
@@ -6,7 +8,9 @@ namespace Tech_Assignment_2___Basic_Console_App
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Technology is the future, deal with it");
+
+            Console.WriteLine("Submitted by Alex Gaskin");
         }
     }
 }
